@@ -22,8 +22,10 @@ A cursor effect that generates particles exploding from the mouse pointer, with 
 
 
 ## Installation
+
+Link to npm: https://www.npmjs.com/package/mouse-effect-test
 ```bash
-npm install custom-mouse-effect
+npm i mouse-effect-test
 ```
 ### Usage
 ```js
