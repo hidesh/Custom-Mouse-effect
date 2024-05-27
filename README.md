@@ -1,6 +1,6 @@
-# Custom-Mouse-effect 🖱️
+# Mouse-effect-test 🖱️
 Hi! 👋
-Welcome to custom-mouse-effect, a project created for my exam focused on learning and working with npm to create reusable React components. This package offers two customizable cursor effects: FollowingCircle and CustomCursorParticles, designed to simplify styling and enhance user interaction.
+Welcome to mouse-effect-test, a project created for my exam focused on learning and working with npm to create reusable React components. This package offers two customizable cursor effects: FollowingCircle and CustomCursorParticles, designed to simplify styling and enhance user interaction.
 
 ## Components:
 
@@ -9,7 +9,7 @@ A cursor effect that creates a trail of circles following the mouse pointer, wit
 
 <details closed>
   <summary>See Video of FollowingCircle</summary>
-  
+  <p>coming soon</p>
 </details>
 
 ### CustomCursorParticles
@@ -17,20 +17,18 @@ A cursor effect that generates particles exploding from the mouse pointer, with 
 
 <details closed>
   <summary>See Video of CustomCursorParticles</summary>
-  
+  <p>coming soon</p>
 </details>
 
 
 ## Installation
-
-Link to npm: https://www.npmjs.com/package/mouse-effect-test
 ```bash
-npm i mouse-effect-test
+npm install mouse-effect-test
 ```
 ### Usage
 ```js
 import React from 'react';
-import { FollowingCircle, CustomCursorParticles } from 'custom-mouse-effect'; // Remember to import the package
+import { FollowingCircle, CustomCursorParticles } from 'mouse-effect-test'; // Remember to import the package
 
 const App = () => {
   return (
