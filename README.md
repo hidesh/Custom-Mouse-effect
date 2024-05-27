@@ -1,6 +1,6 @@
 # Custom-mouse-effect 🖱️
 Hi! 👋
-Welcome to mouse-effect-test, a project created for my exam focused on learning and working with npm to create reusable React components. This package offers two customizable cursor effects: FollowingCircle and CustomCursorParticles, designed to simplify styling and enhance user interaction.
+Welcome to Custom-mouse-effect, a project created for my exam focused on learning and working with npm to create reusable React components. This package offers two customizable cursor effects: FollowingCircle and CustomCursorParticles, designed to simplify styling and enhance user interaction.
 
 ## Components:
 
