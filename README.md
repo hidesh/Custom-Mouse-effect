@@ -9,7 +9,9 @@ A cursor effect that creates a trail of circles following the mouse pointer, wit
 
 <details closed>
   <summary>See Video of FollowingCircle</summary>
-  <p>coming soon</p>
+  ![partikel-1](https://github.com/hidesh/Mouse-effect-test/assets/48475771/779445aa-c6bb-4eb5-9353-23b08cf9b311)
+
+
 </details>
 
 ### CustomCursorParticles
@@ -17,7 +19,7 @@ A cursor effect that generates particles exploding from the mouse pointer, with 
 
 <details closed>
   <summary>See Video of CustomCursorParticles</summary>
-  <p>coming soon</p>
+  ![partikel-2](https://github.com/hidesh/Mouse-effect-test/assets/48475771/c1d855c5-6019-4083-b492-cd7661b36b8c)
 </details>
 
 
